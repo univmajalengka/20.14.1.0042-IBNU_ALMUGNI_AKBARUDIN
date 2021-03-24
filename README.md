@@ -1,2 +1,3 @@
-# 20.14.1.0042-Ibnu_Almugni_akbarudin
++ 20.14.1.0042
++ Ibnu Almugni akbarudin
 Repository Data Praktikum Alpro 2021
